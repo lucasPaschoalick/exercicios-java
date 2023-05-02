@@ -1,6 +1,6 @@
 # Desafios Target
 
-Desafios referentes a vaga de estágio.
+Desafios referentes a vaga de Analista de Sistemas.
 
 ## Execução
 
