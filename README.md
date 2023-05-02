@@ -1,6 +1,6 @@
 # Desafios Target
 
-Desafios referentes a vaga de estágio na Targe Sistemas.
+Desafios referentes a vaga de estágio.
 
 ## Execução
 
