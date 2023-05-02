@@ -13,13 +13,16 @@ public class Desafios {
 	public static void main(String[] args) {		
 		int n;
 		do {
-			System.out.print("Digite qual questão deseja executar (2, 3, 4, 5) ou digite 0 para sair: ");
+			System.out.print("Digite qual questão deseja executar (1, 2, 3, 4, 5) ou digite 0 para sair: ");
 			n = scanner.nextInt();
 			
 			switch(n) {
 			case 0:
 				scanner.close();
 				System.exit(n);
+            case 1:
+                questao1();
+                break;
 			case 2:
 				questao2();
 				break;
@@ -39,6 +42,12 @@ public class Desafios {
 		}
 		while(n != 0);		
 	}
+	
+		
+	//  Questão 1
+    public static void questao1(){
+        System.out.println("O valor da variável SOMA ao final do processamento será de 91.!");
+    }
 	
 	
 	
